@@ -1,0 +1,3 @@
+[submodule "eJosh/vendor/plugins/employee_management"]
+	path = eJosh/vendor/plugins/employee_management
+	url = git@github.com:spatil/employee_management.git
